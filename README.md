@@ -1,2 +1,2 @@
 # Guess-my-number-Game
- Javascript Game
+ Javascript Simple Game
